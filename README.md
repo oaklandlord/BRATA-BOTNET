@@ -25,19 +25,14 @@ With the aid of the Deep-Web and defaming tools, we have also managed to keep ou
 **FEATURES OF BRATA RAT**
 
 # Anti-Delete 
-# Fastest Screen Control 
-# Screen Blocker 
+# Screen Control 
 # Format Phone 
 # Phone Call
 # Message Toaster
-# Auto Click Commander
-# Bypass Black Screen
 # Messages and Contacts 
 # File Manager 
-# CRY-MODE (Ransom)
 # Screen Phisher 
 # Ghost-MODE 
-# Screen Unlock
 
 
 --------------
@@ -51,7 +46,7 @@ With the aid of the Deep-Web and defaming tools, we have also managed to keep ou
 
 BRATA BOTNET ( PRIVATE )
 
-https://i.imgur.com/MQezyjn.jpg 
+![33](https://i.imgur.com/MQezyjn.jpg)
 
 
 **FEATURES OF BRATA RAT**
@@ -77,7 +72,7 @@ https://i.imgur.com/MQezyjn.jpg
 Many More
 
 
-https://i.imgur.com/V5c20Ca.jpg
+![33](https://i.imgur.com/V5c20Ca.jpg)
 
 
 [TELEGRAM CONTACT](https://t.me/nocrimer)
